@@ -743,7 +743,7 @@ export default function App() {
 
         {/* System footer matches modern minimalist style */}
         <footer className="h-10 bg-white border-t border-slate-200 flex items-center justify-between px-8 text-[11px] text-slate-450 flex-shrink-0">
-          <p>© 2026 ProfTrack Pro • Connected secure via Firebase Auth</p>
+          <p>© 2026 ProfTrack Pro • Connected secure via Firebase Auth • Developed by: Kamil Ahmad, PUST</p>
           <p className="font-mono text-[10px]">SYS TIME: 2026-05-20 | USA GRAD PORTAL</p>
         </footer>
 
