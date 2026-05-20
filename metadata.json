@@ -1,0 +1,6 @@
+{
+  "name": "US Graduate Professor Tracker",
+  "description": "Keep track of professors you are emailing for Masters admissions in USA universities with interactive dashboard, Google Sheets syncing, and AI-enabled email helpers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
