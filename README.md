@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/62fc9d9c-acb4-4a26-82da-76f2e9a939b5
+Open the app: https://research-dashboard-three-xi.vercel.app/
 
 ## Run Locally
 
